@@ -45,7 +45,7 @@ function page() {
 
         <div>
           <h1 className="text-3xl font-InterBo mt-7 my-3 dark:text-white text-neutral-800">
-            It's Me Joscript
+            It's Me Ferymaleha
           </h1>
           <motion.p
             initial={{ y: 100, opacity: 0 }}
@@ -241,7 +241,7 @@ function page() {
           <div className="bg-[#F6F8FA] dark:bg-[#2C2C2C] p-6  mt-4 rounded-md">
             <div className="text-center">
               <span className="text-neutral-700 dark:text-neutral-400">
-                © 2023 Joscript Folio – Jo free Templates
+                © 2024 Folio – Jo free Templates
               </span>
               <p className="text-neutral-500">
                 By{" "}
